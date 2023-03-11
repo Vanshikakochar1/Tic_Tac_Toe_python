@@ -13,3 +13,15 @@ on your laptop/computer and we are good to go.
 After building this game, we can get a pretty clear idea about dictionaries
 in python, how to access dictionaries, how to iterate over dictionaries, for
 loop, if-else conditions and functions in python.
+
+**Output Looks like:**
+
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/86374358/224485640-0495cb69-2011-453a-91e8-9d2816dedb26.png">
+
+
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/86374358/224485649-aba21e42-c586-4e19-b1f8-818c7b659273.png">
+
+
+<img width="356" alt="image" src="https://user-images.githubusercontent.com/86374358/224485660-90d2d05e-2517-45b6-b3bb-c7dc210fc71f.png">
+
+
